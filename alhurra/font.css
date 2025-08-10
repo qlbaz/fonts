@@ -1,0 +1,30 @@
+/* تعريف الخط الخاص */
+@font-face {
+  font-family: 'Alhurra';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/qlbaz/fonts@main/alhurra/light/Alhurra-Light.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/qlbaz/fonts@main/alhurra/light/Alhurra-Light.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/qlbaz/fonts@main/alhurra/light/Alhurra-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Alhurra';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/qlbaz/fonts@main/alhurra/regular/Alhurra-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/qlbaz/fonts@main/alhurra/regular/Alhurra-Regular.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/qlbaz/fonts@main/alhurra/regular/Alhurra-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Alhurra';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/qlbaz/fonts@main/alhurra/bold/Alhurra-Bold.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/qlbaz/fonts@main/alhurra/bold/Alhurra-Bold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/qlbaz/fonts@main/alhurra/bold/Alhurra-Bold.ttf') format('truetype');
+}
